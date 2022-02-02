@@ -1,0 +1,6 @@
+Clients who ordered more than 2 times, with a value of each order higher than 15.0 ron:
+
+1) Client ID: 4        Number of orders:5
+
+
+REPORT GENERATED: 26/05/2021 01:24:26

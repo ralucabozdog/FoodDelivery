@@ -1,0 +1,9 @@
+Order 12
+
+anamaria, thank you for your order!
+
+Here is a quick overview of your order:
+
+Product 1:    Coriander-Herb Spice Rub         51.0 RON      x 2
+
+TOTAL:      102.0 RON

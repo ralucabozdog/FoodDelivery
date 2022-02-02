@@ -1,0 +1,11 @@
+Order 14
+
+anamaria, thank you for your order!
+
+Here is a quick overview of your order:
+
+Product 1:    Beef Stock         96.0 RON      x 1
+Product 2:    Fish Stock         27.0 RON      x 2
+Product 3:    Quick & Spicy Asian Pickles         48.0 RON      x 1
+
+TOTAL:      198.0 RON

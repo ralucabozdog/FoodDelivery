@@ -1,0 +1,10 @@
+Order 3
+
+biancaioana, thank you for your order!
+
+Here is a quick overview of your order from 26/05/2021 18:17:05
+
+Product 1:    Hot-and-Sour Cabbage Salad         29.0 RON      x 4
+Product 2:    Chipotle Tomato Salsa         98.0 RON      x 1
+
+TOTAL:      214.0 RON

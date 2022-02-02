@@ -1,0 +1,10 @@
+Order 10
+
+denisadeni, thank you for your order!
+
+Here is a quick overview of your order:
+
+Product 1:    Steamed Mussels with Tomato and Chorizo Broth         42.0 RON      x 2
+Product 2:    Cilantro-Tomato Salsa         32.0 RON      x 2
+
+TOTAL:      148.0 RON

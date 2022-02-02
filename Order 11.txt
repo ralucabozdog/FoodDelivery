@@ -1,0 +1,10 @@
+Order 11
+
+clientnou, thank you for your order!
+
+Here is a quick overview of your order:
+
+Product 1:    Hot-and-Sour Cabbage Salad         14.0 RON      x 2
+Product 2:    Coriander-Herb Spice Rub         51.0 RON      x 3
+
+TOTAL:      181.0 RON

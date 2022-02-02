@@ -1,0 +1,56 @@
+Orders placed from 01:00:00 to 03:00:00 regardless of the day:
+
+ORDER ID:  1                 ORDER DATE: 23/5/2021        ORDER TIME: 2:20:21
+    CLIENT ID:  1
+      PRODUCTS:
+             1) Cilantro-Tomato Salsa    PRICE: 32.0
+             2) Cilantro-Tomato Salsa    PRICE: 32.0
+             3) Cilantro-Tomato Salsa    PRICE: 32.0
+
+             TOTAL: 96.0
+
+
+ORDER ID:  2                 ORDER DATE: 23/5/2021        ORDER TIME: 2:20:29
+    CLIENT ID:  1
+      PRODUCTS:
+             1) Fish Stock    PRICE: 27.0
+             2) Fish Stock    PRICE: 27.0
+             3) Fish Stock    PRICE: 27.0
+             4) Fish Stock    PRICE: 27.0
+             5) Quick & Spicy Asian Pickles    PRICE: 48.0
+             6) Quick & Spicy Asian Pickles    PRICE: 48.0
+
+             TOTAL: 204.0
+
+
+ORDER ID:  3                 ORDER DATE: 23/5/2021        ORDER TIME: 2:20:53
+    CLIENT ID:  1
+      PRODUCTS:
+             1) Fish Stock    PRICE: 27.0
+             2) Fish Stock    PRICE: 27.0
+             3) Smoked Caviar and Hummus on Pita Toasts    PRICE: 79.0
+             4) Smoked Caviar and Hummus on Pita Toasts    PRICE: 79.0
+
+             TOTAL: 212.0
+
+
+ORDER ID:  22                 ORDER DATE: 26/5/2021        ORDER TIME: 1:12:15
+    CLIENT ID:  4
+      PRODUCTS:
+             1) Quatre-Épices    PRICE: 78.0
+             2) Quatre-Épices    PRICE: 78.0
+             3) Ethiopian Spice Tea    PRICE: 49.0
+
+             TOTAL: 205.0
+
+
+ORDER ID:  23                 ORDER DATE: 26/5/2021        ORDER TIME: 1:14:57
+    CLIENT ID:  13
+      PRODUCTS:
+             1) Fresh Corn Tortillas    PRICE: 79.0
+             2) Fresh Corn Tortillas    PRICE: 79.0
+
+             TOTAL: 158.0
+
+
+REPORT GENERATED: 26/05/2021 01:21:15

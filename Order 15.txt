@@ -1,0 +1,10 @@
+Order 15
+
+anamaria, thank you for your order!
+
+Here is a quick overview of your order:
+
+Product 1:    Beef Stock         96.0 RON      x 2
+Product 2:    Toasted Corn Crisps         66.0 RON      x 1
+
+TOTAL:      258.0 RON

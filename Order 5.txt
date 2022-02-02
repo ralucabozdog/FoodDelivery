@@ -1,0 +1,10 @@
+Order 5
+
+denisadeni, thank you for your order!
+
+Here is a quick overview of your order from 26/05/2021 18:18:22
+
+Product 1:    Toasted Corn Crisps         66.0 RON      x 1
+Product 2:    Fish Stock         27.0 RON      x 1
+
+TOTAL:      93.0 RON

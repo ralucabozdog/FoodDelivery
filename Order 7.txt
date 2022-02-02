@@ -1,0 +1,11 @@
+Order 7
+
+client1, thank you for your order!
+
+Here is a quick overview of your order from 26/05/2021 18:30:24
+
+Product 1:    Hot-and-Sour Cabbage Salad         29.0 RON      x 2
+Product 2:    Toasted Corn Crisps         66.0 RON      x 3
+Product 3:    Coriander-Herb Spice Rub         51.0 RON      x 1
+
+TOTAL:      307.0 RON

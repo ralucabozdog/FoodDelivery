@@ -1,0 +1,10 @@
+Order 2
+
+anamaria, thank you for your order!
+
+Here is a quick overview of your order from 26/05/2021 18:15:42
+
+Product 1:    The Original Three-Ingredient Rub         47.0 RON      x 1
+Product 2:    Barbecued Shrimp         71.0 RON      x 2
+
+TOTAL:      189.0 RON

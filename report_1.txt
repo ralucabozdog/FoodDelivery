@@ -1,0 +1,72 @@
+Orders placed from 18:00:00 to 18:30:00 regardless of the day:
+
+ORDER ID:  1                 ORDER DATE: 26/5/2021        ORDER TIME: 18:15:21
+    CLIENT ID:  1
+      PRODUCTS:
+             1) Cilantro-Tomato Salsa    PRICE: 32.0
+             2) Cilantro-Tomato Salsa    PRICE: 32.0
+             3) Toasted Corn Crisps    PRICE: 66.0
+             4) Toasted Corn Crisps    PRICE: 66.0
+             5) Toasted Corn Crisps    PRICE: 66.0
+             6) Coriander-Herb Spice Rub    PRICE: 51.0
+
+             TOTAL: 313.0
+
+
+ORDER ID:  2                 ORDER DATE: 26/5/2021        ORDER TIME: 18:15:42
+    CLIENT ID:  1
+      PRODUCTS:
+             1) The Original Three-Ingredient Rub    PRICE: 47.0
+             2) Barbecued Shrimp    PRICE: 71.0
+             3) Barbecued Shrimp    PRICE: 71.0
+
+             TOTAL: 189.0
+
+
+ORDER ID:  3                 ORDER DATE: 26/5/2021        ORDER TIME: 18:17:5
+    CLIENT ID:  2
+      PRODUCTS:
+             1) Hot-and-Sour Cabbage Salad    PRICE: 29.0
+             2) Hot-and-Sour Cabbage Salad    PRICE: 29.0
+             3) Hot-and-Sour Cabbage Salad    PRICE: 29.0
+             4) Hot-and-Sour Cabbage Salad    PRICE: 29.0
+             5) Chipotle Tomato Salsa    PRICE: 98.0
+
+             TOTAL: 214.0
+
+
+ORDER ID:  4                 ORDER DATE: 26/5/2021        ORDER TIME: 18:17:47
+    CLIENT ID:  5
+      PRODUCTS:
+             1) Master Stock Chicken    PRICE: 72.0
+             2) Master Stock Chicken    PRICE: 72.0
+             3) Arugula Salad with Heirloom Tomatoes and Red Onion    PRICE: 21.0
+             4) Arugula Salad with Heirloom Tomatoes and Red Onion    PRICE: 21.0
+
+             TOTAL: 186.0
+
+
+ORDER ID:  5                 ORDER DATE: 26/5/2021        ORDER TIME: 18:18:22
+    CLIENT ID:  4
+      PRODUCTS:
+             1) Toasted Corn Crisps    PRICE: 66.0
+             2) Fish Stock    PRICE: 27.0
+
+             TOTAL: 93.0
+
+
+ORDER ID:  6                 ORDER DATE: 26/5/2021        ORDER TIME: 18:18:53
+    CLIENT ID:  2
+      PRODUCTS:
+             1) Cilantro-Tomato Salsa    PRICE: 32.0
+             2) Cilantro-Tomato Salsa    PRICE: 32.0
+             3) Cilantro-Tomato Salsa    PRICE: 32.0
+             4) Cauliflower-Leek Purée    PRICE: 13.0
+             5) Cauliflower-Leek Purée    PRICE: 13.0
+             6) Cauliflower-Leek Purée    PRICE: 13.0
+             7) Cauliflower-Leek Purée    PRICE: 13.0
+
+             TOTAL: 148.0
+
+
+REPORT GENERATED: 26/05/2021 18:36:30

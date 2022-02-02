@@ -1,0 +1,9 @@
+Order 8
+
+client1, thank you for your order!
+
+Here is a quick overview of your order from 26/05/2021 18:30:40
+
+Product 1:    Spicy Pickled Shallots         78.0 RON      x 2
+
+TOTAL:      156.0 RON

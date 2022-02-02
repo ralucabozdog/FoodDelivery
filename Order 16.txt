@@ -1,0 +1,9 @@
+Order 16
+
+anamaria, thank you for your order!
+
+Here is a quick overview of your order:
+
+Product 1:    Fresh Corn Tortillas         79.0 RON      x 2
+
+TOTAL:      158.0 RON
